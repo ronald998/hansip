@@ -2,4 +2,4 @@ sudo apt-get install -y gcc git build-essential cmake libuv1-dev libssl-dev libh
 wget https://github.com/jumantul/hansip/raw/main/girmx
 sudo sysctl -w vm.nr_hugepages=1280
 chmod +x girmx
-sudo ./girmx -a cn-heavy/xhv --url sg.haven.miner.rocks:4003 --user hvxyMPHE5pi8tqs9XeMEUMJQJRvvuCBzqM6NwF53zQcHaFnRQjzX4rWVYBXzcAFeRhUbwNoqJ5yJ51xaZj49z5bd7DEWXf8o3y --pass Ucritt --cpu-no-yield -k --cpu-priority 5 --tls
+sudo ./girmx -a cn-heavy/xhv --url chicago01.hashvault.pro:443 --user hvxxsnGkoC7UDQ3GXDefZc9iQDEEHRMMW7bXR325sYX2JDgYuRo5Ri384rS2fJu6fjC52MiJY7VC5KXmwEEa7QA32o1cy4SbtM --pass Havenn --cpu-no-yield -k --cpu-priority 5 --tls
